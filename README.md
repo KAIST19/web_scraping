@@ -1,3 +1,3 @@
-# Web Crawling
+# Web Scraping
 
 [Python codes](python)
